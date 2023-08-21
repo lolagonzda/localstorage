@@ -1,0 +1,1 @@
+document.getElementById("data").innerHTML = "Hola" + localStorage.getItem("inputText");
